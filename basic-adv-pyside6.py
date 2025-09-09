@@ -1,8 +1,3 @@
-# ==============================
-# PySide6 Notes (Beginner to Advanced)
-# Author: Your Name
-# ==============================
-
 # Import necessary PySide6 modules
 import sys
 from PySide6.QtWidgets import (
@@ -228,3 +223,4 @@ if __name__ == "__main__":
     window = NotesApp()
     window.show()
     sys.exit(app.exec())
+
